@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="614.0" prefWidth="947.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="614.0" fitWidth="947.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@textures/MENU.png" />
+         </image>
+      </ImageView>
+      <Button id="newGameBtn" layoutX="615.0" layoutY="225.0" mnemonicParsing="false" prefHeight="61.0" prefWidth="218.0" styleClass="record-sales" text="NEW GAME">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button id="ExitBtn" layoutX="615.0" layoutY="365.0" mnemonicParsing="false" prefHeight="61.0" prefWidth="218.0" styleClass="record-sales" text="Exit" />
+      <Button id="loadGameBtn" layoutX="615.0" layoutY="295.0" mnemonicParsing="false" prefHeight="61.0" prefWidth="218.0" styleClass="record-sales" text="LOAD GAME" />
+   </children>
+</Pane>

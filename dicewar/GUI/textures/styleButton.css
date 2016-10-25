@@ -1,0 +1,295 @@
+.PlayerButton {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('BRICK.png');
+}
+
+.BRICK {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('BRICK.png');
+}
+
+.player1-1 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-1-UP.png');
+}
+.player1-2 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-2-UP.png');
+}
+.player1-3 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-3-UP.png');
+}
+.player1-4 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-4-UP.png');
+}
+.player1-5 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-5-UP.png');
+}
+.player1-6 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-6-UP.png');
+}
+.player1-7 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-7-UP.png');
+}
+.player1-8 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-8-UP.png');
+}
+.player2-1 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-1-UP.png');
+}
+.player2-2 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-2-UP.png');
+}
+.player2-3 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-3-UP.png');
+}
+.player2-4 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-4-UP.png');
+}
+.player2-5 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-5-UP.png');
+}
+.player2-6 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-6-UP.png');
+}
+.player2-7 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-7-UP.png');
+}
+.player2-8 {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-8-UP.png');
+}
+
+
+.player1-1:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-1-UP-HOVER.png');
+}
+.player1-2:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-2-UP-HOVER.png');
+}
+.player1-3:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-3-UP-HOVER.png');
+}
+.player1-4:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-4-UP-HOVER.png');
+}
+.player1-5:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-5-UP-HOVER.png');
+}
+.player1-6:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-6-UP-HOVER.png');
+}
+.player1-7:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-7-UP-HOVER.png');
+}
+.player1-8:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-8-UP-HOVER.png');
+}
+.player2-1:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-1-UP-HOVER.png');
+}
+.player2-2:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-2-UP-HOVER.png');
+}
+.player2-3:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-3-UP-HOVER.png');
+}
+.player2-4:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-4-UP-HOVER.png');
+}
+.player2-5:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-5-UP-HOVER.png');
+}
+.player2-6:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-6-UP-HOVER.png');
+}
+.player2-7:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-7-UP-HOVER.png');
+}
+.player2-8:hover {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-8-UP-HOVER.png');
+}
+
+.player1-1-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-1-DOWN.png');
+}
+.player1-2-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-2-DOWN.png');
+}
+.player1-3-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-3-DOWN.png');
+}
+.player1-4-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-4-DOWN.png');
+}
+.player1-5-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-5-DOWN.png');
+}
+.player1-6-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-6-DOWN.png');
+}
+.player1-7-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-7-DOWN.png');
+}
+.player1-8-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER1-8-DOWN.png');
+}
+.player2-1-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-1-DOWN.png');
+}
+.player2-2-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-2-DOWN.png');
+}
+.player2-3-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-3-DOWN.png');
+}
+.player2-4-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-4-DOWN.png');
+}
+.player2-5-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-5-DOWN.png');
+}
+.player2-6-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-6-DOWN.png');
+}
+.player2-7-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-7-DOWN.png');
+}
+.player2-8-DOWN {
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+    -fx-graphic: url('PLAYER2-8-DOWN.png');
+}
+
+
+.round-red {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
+
+.round-red:hover {
+    -fx-background-color: linear-gradient(#ff5400, #ea7f4b);
+}
+
+.record-sales {
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color:
+            linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+            #9d4024,
+            #d86e3a,
+            radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+.record-sales:hover {
+    -fx-background-color:
+            linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+            #9d4024,
+            #d86e3a,
+            radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #c54e2c);
+}
+.record-sales:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+.record-sales Text {
+    -fx-fill: white;
+    -fx-effect: dropshadow(gaussian, #a30000, 0, 0, 0, 2);
+}
